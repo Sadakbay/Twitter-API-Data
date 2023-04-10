@@ -4,7 +4,7 @@ This project extracts 200 tweets from Cristiano Ronaldo's Twitter account (@cris
 
 Prerequisites
 
-Python 3.x. 
-Airflow. 
-Twitter Developer Account and API keys. 
+Python 3.x  
+Airflow  
+Twitter Developer Account and API keys  
 AWS Account and S3 Bucket  
